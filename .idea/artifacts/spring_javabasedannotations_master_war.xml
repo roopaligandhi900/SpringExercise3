@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="spring-javabasedannotations-master.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_javabasedannotations_master_war</output-path>
+    <root id="root">
+      <element id="archive" name="spring-javabasedannotations-master.war" />
+    </root>
+  </artifact>
+</component>
